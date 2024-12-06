@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Recursiondzl/Recursiondzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2><em> Hi there! I'm Zhilin Dai. 👋 </em></h2>
+
+- :orange_book: Focusing on Video Understanding, Vision-Language Representation Learning...
+- 🌱 I’m a MS student in [MCG group](http://mcg.nju.edu.cn/index.html), [Nanjing University](https://cs.nju.edu.cn/), under the supervision of [Prof. Limin Wang](http://wanglimin.github.io/).
+- 📫 How to reach me: daizhilin1@gmail.com
+- :smiley: Trying to do better.
